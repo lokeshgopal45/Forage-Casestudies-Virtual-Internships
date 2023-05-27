@@ -9,22 +9,24 @@ In the Data Science & Analytics field, Forage offers around 10 Virtual Internshi
 
 ## Projects :
 Here are the Related Links for Virtual Internships:
-* PWC Data Analytics (Power BI)
-	https://www.theforage.com/virtual-internships/prototype/a87GpgE6tiku7q3gu/PwC-Digital-Up-skilling-Virtual-Case-Experience?ref=wQ6FDgy5fEcMHwKFv
-* Accenture Data Analytics 
-https://www.theforage.com/virtual-internships/prototype/hzmoNKtzvAzXsEqx8/data-analytics-virtual-experience?forceFastTrackV2=true&ref=wQ6FDgy5fEcMHwKFv
-* KPMG AU Data Analytics 
-https://www.theforage.com/virtual-internships/theme/m7W4GMqeT3bh9Nb2c/KPMG-Data-Analytics-Virtual-Internship?ref=wQ6FDgy5fEcMHwKFv
-* Quantinum Data Analytics
- https://www.theforage.com/virtual-internships/prototype/NkaC7knWtjSbi6aYv/Data-Analytics?ref=wQ6FDgy5fEcMHwKFv
- * British Airways Data Science
-https://www.theforage.com/virtual-internships/prototype/NjynCWzGSaWXQCxSX/Data-Science?ref=wQ6FDgy5fEcMHwKFv
-* BCG Data Science & Analytics
-https://www.theforage.com/virtual-internships/prototype/Tcz8gTtprzAS4xSoK/Data-Science-&-Analytics-Virtual-Experience-Program?ref=wQ6FDgy5fEcMHwKFv
-* Standard Bank Data Science 
-https://www.theforage.com/virtual-internships/prototype/mq38jBo7o3z25RQQb/Data-Science-Virtual-Experience-Programme?ref=wQ6FDgy5fEcMHwKFv
+* PWC Data Analytics (Power BI) </br>
+https://github.com/lokeshmadiga/Forage-Casestudies-Virtual-Internships/tree/main/PWC%20Data%20Analytics%20(Power%20BI)
+* Accenture Data Analytics </br>
+https://github.com/lokeshmadiga/Forage-Casestudies-Virtual-Internships/tree/main/Accenture%20Data%20Analytics
+* KPMG AU Data Analytics </br>
+<!-- TO DO: add more details about me later https://www.theforage.com/virtual-internships/theme/m7W4GMqeT3bh9Nb2c/KPMG-Data-Analytics-Virtual-Internship?ref=wQ6FDgy5fEcMHwKFv -->
+* Quantinum Data Analytics </br>
+ <!-- TO DO: add more details about me later https://www.theforage.com/virtual-internships/prototype/NkaC7knWtjSbi6aYv/Data-Analytics?ref=wQ6FDgy5fEcMHwKFv -->
+ * British Airways Data Science </br>
+<!-- TO DO: add more details about me later https://www.theforage.com/virtual-internships/prototype/NjynCWzGSaWXQCxSX/Data-Science?ref=wQ6FDgy5fEcMHwKFv -->
+* BCG Data Science & Analytics </br>
+<!-- TO DO: add more details about me later https://www.theforage.com/virtual-internships/prototype/Tcz8gTtprzAS4xSoK/Data-Science-&-Analytics-Virtual-Experience-Program?ref=wQ6FDgy5fEcMHwKFv -->
+* Standard Bank Data Science </br>
+<!-- TO DO: add more details about me later https://www.theforage.com/virtual-internships/prototype/mq38jBo7o3z25RQQb/Data-Science-Virtual-Experience-Programme?ref=wQ6FDgy5fEcMHwKFv -->
 * JP Morgan Chase 
-https://www.theforage.com/virtual-internships/prototype/4dy5SP43KMPppKz2i/CADP-Virtual-Experience-Program?ref=wQ6FDgy5fEcMHwKFv
-https://www.theforage.com/virtual-internships/prototype/XiuvjcwqWRqH9oy38/Excel-Skills?ref=wQ6FDgy5fEcMHwKFv&forceFastTrackV2=true
-* Tata Data Visualization
-https://www.theforage.com/virtual-internships/prototype/MyXvBcppsW2FkNYCX/Data-Visualisation-Empowering-Business-with-Effective-Insights?ref=wQ6FDgy5fEcMHwKFv
+<!-- TO DO: add more details about me later
+https://www.theforage.com/virtual-internships/prototype/4dy5SP43KMPppKz2i/CADP-Virtual-Experience-Program?ref=wQ6FDgy5fEcMHwKFv </br>
+https://www.theforage.com/virtual-internships/prototype/XiuvjcwqWRqH9oy38/Excel-Skills?ref=wQ6FDgy5fEcMHwKFv&forceFastTrackV2=true -->
+* Tata Data Visualization </br>
+<!-- TO DO: add more details about me later
+https://www.theforage.com/virtual-internships/prototype/MyXvBcppsW2FkNYCX/Data-Visualisation-Empowering-Business-with-Effective-Insights?ref=wQ6FDgy5fEcMHwKFv -->
