@@ -9,11 +9,12 @@ In the Data Science & Analytics field, Forage offers around 10 Virtual Internshi
 
 ## Projects :
 Here are the Related Links for Virtual Internships:
-* PWC Data Analytics (Power BI) </br>
-https://github.com/lokeshmadiga/Forage-Casestudies-Virtual-Internships/tree/main/PWC%20Data%20Analytics%20(Power%20BI)
-* Accenture Data Analytics </br>
-https://github.com/lokeshmadiga/Forage-Casestudies-Virtual-Internships/tree/main/Accenture%20Data%20Analytics
-* KPMG AU Data Analytics </br>
+ 
+* PWC Data Analytics (Power BI) 
+  - Project Link :[Clickhere](https://github.com/lokeshmadiga/Forage-Casestudies-Virtual-Internships/tree/main/PWC%20Data%20Analytics%20(Power%20BI))
+* Accenture Data Analytics 
+  - Project Link :[Clickhere](https://github.com/lokeshmadiga/Forage-Casestudies-Virtual-Internships/tree/main/Accenture%20Data%20Analytics)
+ * KPMG AU Data Analytics </br>
 <!-- TO DO: add more details about me later https://www.theforage.com/virtual-internships/theme/m7W4GMqeT3bh9Nb2c/KPMG-Data-Analytics-Virtual-Internship?ref=wQ6FDgy5fEcMHwKFv -->
 * Quantinum Data Analytics </br>
  <!-- TO DO: add more details about me later https://www.theforage.com/virtual-internships/prototype/NkaC7knWtjSbi6aYv/Data-Analytics?ref=wQ6FDgy5fEcMHwKFv -->
