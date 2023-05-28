@@ -14,8 +14,8 @@ Here are the Related Links for Virtual Internships:
   - Project Link :[Clickhere](https://github.com/lokeshmadiga/Forage-Casestudies-Virtual-Internships/tree/main/PWC%20Data%20Analytics%20(Power%20BI))
 * Accenture Data Analytics 
   - Project Link :[Clickhere](https://github.com/lokeshmadiga/Forage-Casestudies-Virtual-Internships/tree/main/Accenture%20Data%20Analytics)
- * KPMG AU Data Analytics </br>
-<!-- TO DO: add more details about me later https://www.theforage.com/virtual-internships/theme/m7W4GMqeT3bh9Nb2c/KPMG-Data-Analytics-Virtual-Internship?ref=wQ6FDgy5fEcMHwKFv -->
+ * KPMG AU Data Analytics
+   - Project Link :[Clickhere](https://github.com/lokeshmadiga/Forage-Casestudies-Virtual-Internships/tree/main/KPMG%20AU%20Data%20Analytics)
 * Quantinum Data Analytics </br>
  <!-- TO DO: add more details about me later https://www.theforage.com/virtual-internships/prototype/NkaC7knWtjSbi6aYv/Data-Analytics?ref=wQ6FDgy5fEcMHwKFv -->
  * British Airways Data Science </br>
